@@ -1,2 +1,2 @@
 # myrepository
-for git practive
+for git practice
